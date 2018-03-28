@@ -1,0 +1,25 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Quiz App</string>
+    <string name="question_1">1. What did Alexander the Great put on his "ice cream"?</string>
+    <string name="question_2">2. What year did the first advertisement for ice cream run in the US?</string>
+    <string name="question_3">3. Who pioneered manufacturing ice cream?</string>
+    <string name="question_4">4. Which is/are ice cream brand(s)?</string>
+    <string name="question_5">5. According to the IDFA, in 2017, what was America\'s favorite ice cream flavor?</string>
+    <string name="year_hint">YYYY</string>
+    <string name="apple">Apple</string>
+    <string name="honey">Honey</string>
+    <string name="cinnamon">Cinnamon</string>
+    <string name="anthony_alvarez">Anthony Alvarez</string>
+    <string name="richard_smith">Richard Smith</string>
+    <string name="jacob_fussell">Jacob Fussell</string>
+    <string name="edys">Edy\'s</string>
+    <string name="dairy_prince">Dairy Prince</string>
+    <string name="breyers">Breyers</string>
+    <string name="vanilla">Vanilla</string>
+    <string name="peach">Peach</string>
+    <string name="banana">Banana</string>
+    <string name="submit">Submit</string>
+    <string name="wow">WOW!!!</string>
+    <string name="almost_there">You\'re almost there!</string>
+    <string name="quiz_results">You got <xliff:g id="numCorrect" example="2">%d</xliff:g> out of 5 correct!</string>
+</resources>
